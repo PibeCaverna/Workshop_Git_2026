@@ -2,6 +2,7 @@
 #include <stdint.h>
 
 void inicializar_hardware(void);
+void inicializar_motores(void);
 
 int 
 main (void)
@@ -22,4 +23,10 @@ void
 inicializar_hardware(void)
 {
   cosas aburridas que no sirven para este workshop
+}
+
+void
+incializar_motores(void)
+{
+  init motores
 }
