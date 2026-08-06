@@ -16,6 +16,7 @@ main (void)
     if(leer_sensor(SENSOR2) > 5): velocidad_motor(MOTOR2,
         100-leer_sensor(SENSOR1));
   }
+  imaginate que acá seguimos trabajando porque somos muy trabajadores
 
 }
 
